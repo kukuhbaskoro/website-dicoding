@@ -8,6 +8,7 @@ body {
 .container {
     background: #ffffff;
     font-family: serif;
+    text-align: justify;
 }
 
 .header {
@@ -135,7 +136,8 @@ body {
     box-sizing: border-box;
     background-color: #73777B;
     height: 60px;
-    padding: 10px;
+    padding: 1.5px;
+    text-align: center;
 }
 
 @media only screen and (max-width: 768px) {
